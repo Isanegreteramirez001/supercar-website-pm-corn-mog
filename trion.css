@@ -1,6 +1,5 @@
 
 nav{
-  background-color: rgb(131, 22, 25);
   color: rgb(255, 255, 255);
 }
 
@@ -13,8 +12,27 @@ a:visited {
 }  
 
 div{
-  background-color: black;
+  order: 1;
+  background-color: #373941;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.button {
+  border-radius:10px ;
+  border: none;
+  background-color: #831619;
+  background-size: 100px 100px;
+  border-width: 50%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  margin-left: 700px;
+  margin-right: 100px;
+  margin-top: 100px;
+  cursor: pointer;
 }

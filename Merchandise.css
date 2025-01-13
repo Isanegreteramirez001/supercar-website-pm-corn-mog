@@ -3,7 +3,7 @@
       }
       .topnav {
         overflow: hidden;
-        background-color: #3d3c55;
+        background-color: #00273B;
         display: flex;
         justify-content: space-evenly;
         height: 100px;
@@ -29,7 +29,7 @@ color: darkblue;
 }
 
 nav {
-background-color: #3d3c55;
+background-color: #373941;
 color: white;
 }
 
@@ -45,7 +45,7 @@ color: blue;
 div { 
   display: flex;  
   flex-direction: row;
-  background-color: black;
+  background-color: #373941;
   flex-wrap: wrap;
 justify-content: center;
 }
